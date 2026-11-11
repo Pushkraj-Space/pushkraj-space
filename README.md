@@ -14,11 +14,6 @@
   <a href="https://github.com/Pushkraj-Space/db-schema-diff-checker">db-schema-diff-checker</a>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pushkraj-Space&show_icons=true&count_private=true&bg_color=c0c0c0&title_color=000080&text_color=000000&icon_color=000080&border_color=808080&border_radius=0" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkraj-Space&layout=compact&langs_count=8&bg_color=c0c0c0&title_color=000080&text_color=000000&border_color=808080&border_radius=0" alt="Top languages"/>
-</p>
-
 <img src="assets/taskbar.svg" width="100%" alt="Taskbar"/>
 
 <p align="center"><sub><i>It's now safe to close this tab.</i></sub></p>
